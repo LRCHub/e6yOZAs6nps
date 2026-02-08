@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "雨は気まぐれ",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-08T05:57:30.542340Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨は気まぐれ",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/01_雨は気まぐれ_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨は気まぐれ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/02_雨は気まぐれ_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ame wa Kimagure [雨は気まぐれ]",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/03_Ame_wa_Kimagure_[雨は気まぐれ]_sakanaction.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨は気まぐれ",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_雨は気まぐれ_サカナクション.txt"
+    }
+  ]
+}
